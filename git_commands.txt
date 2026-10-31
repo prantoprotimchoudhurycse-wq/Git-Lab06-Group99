@@ -1,0 +1,10 @@
+git init - Creates a local Git repository.
+git status - Shows the state of files in the repository.
+git add group_info.txt - Stages the file for the next commit.
+git commit -m "Message" - Saves staged changes with a description.
+git log --oneline - Shows a short commit history.
+git diff - Shows unstaged changes.
+git branch -M main - Renames the current branch to main.
+git remote add origin URL - Connects a remote repository.
+git push -u origin main - Uploads commits and sets the upstream branch.
+git push - Uploads subsequent commits.
