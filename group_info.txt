@@ -5,3 +5,6 @@ Member 3: Name - Student ID
 Course Code: Your Course Code
 Lab Work: 06
 Topic: Git Repository
+Department: Computer Science and Engineering
+University: Your University Name
+Git Learning Status: In Progress
