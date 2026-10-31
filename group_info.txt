@@ -1,0 +1,7 @@
+Group Number: 99
+Member 1: Pranto Protim Choudhury - Your Student ID
+Member 2: Name - Student ID
+Member 3: Name - Student ID
+Course Code: Your Course Code
+Lab Work: 06
+Topic: Git Repository
